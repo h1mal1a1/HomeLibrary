@@ -1,4 +1,4 @@
-Для запуска требуется Docker Desktop и .NET 8 SDK.
+Для запуска требуется Docker Desktop и .NET 8 SDK.  
 1.docker compose up -d
 2.dotnet restore
 3.dotnet run
